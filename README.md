@@ -42,3 +42,4 @@ tinygo build -no-debug -o myDemo.wasm -wasm-abi=generic -target=wasi main.go
 - [Web Assembly 官网](https://webassembly.org)  [中文 Web Assembly](https://www.wasm.com.cn) 
 - [tinygo](https://tinygo.org/) 
 - [tinygo git](https://github.com/tinygo-org/tinygo)
+- [用 Easegress + WebAssembly 做秒杀](https://www.bilibili.com/video/BV1HL4y1a7nk)
